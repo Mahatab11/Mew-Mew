@@ -1,0 +1,143 @@
+/* Global CSS */
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    /* border: ; */
+    box-sizing: border-box;
+}
+.container{
+    width: 90%;
+    margin: auto;
+    
+}
+.heading{
+
+}
+.btn{
+
+}
+.pg{
+
+}
+/* Layout class */
+.row{
+    width: 100%;
+    float: left;
+}
+.col-1 {
+    width: 8.33%;
+    float: left;
+}
+.col-2 {width: 16.66%; float: left;}
+.col-3 {width: 25%; float: left;}
+.col-4 {width: 33.33%; float: left;}
+.col-5 {width: 41.66%; float: left;}
+.col-6 {width: 50%; float: left;}
+.col-7 {width: 58.33%; float: left;}
+.col-8 {width: 66.66%; float: left;}
+.col-9 {width: 75%; float: left;}
+.col-10 {width: 83.33%; float: left;}
+.col-11 {width: 91.66%; float: left;}
+.col-12 {width: 100%; float: left;}
+/* ===================header part====================== */
+header{
+    background-color: #223047;
+    padding: 7px 15px;
+    border: solid 1px #fff;
+}
+.logo-part{
+
+}
+.logo-part img{
+
+margin: 4px 0px;
+}
+.menu-part{
+
+text-align: center;
+}
+.menu-part ul{
+
+margin: 12px 0px;
+}
+.menu-part li{
+
+list-style: none;
+
+display: inline-block;
+
+margin: 0px 9px;
+}
+.menu-part a{
+
+text-decoration: none;
+
+color: white;
+}
+.niser{
+    color: #fff;
+}
+.btn-part{
+    FONT-WEIGHT: 100;
+    FONT-VARIANT: JIS04;
+    padding: 10px 0px;
+}
+.btn-part button{
+
+padding: 5px 9px;
+
+border-radius: 7px;
+
+background-color: #00fff3;
+cursor: pointer;
+}
+.btn-part i{color: #fff;/* text-align: end; */}
+.menu-part i{
+    color: #fff;
+}
+.hero-heading{
+
+width: 39%;
+
+padding: 100px 0px;
+
+padding-bottom: 31px;
+
+/* color: #fff; */
+}
+#hero{
+
+}
+    
+
+.hero-pg{
+
+width: 79%;
+
+padding: 26px 0px;
+
+padding-bottom: 32px;
+
+/* color: #fff; */
+}
+.hero-btn{
+
+padding: 6px 6px;
+
+background-color: #78f9ff;
+
+border: none;
+
+border-radius: 7px;
+}
+.hero-btn-light{
+
+padding: 5px 9px;
+
+border-color: white;
+
+border-radius: 8px;
+
+spacing: 10px;
+}
